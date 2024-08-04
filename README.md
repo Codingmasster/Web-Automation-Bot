@@ -15,15 +15,9 @@ WebDriver for your browser (e.g., ChromeDriver for Google Chrome)
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-Install the required Python packages:
 
-bash
-Copy code
-pip install -r requirements.txt
+
+
 Download the WebDriver:
 
 For Chrome, download ChromeDriver and place it in your system's PATH.
