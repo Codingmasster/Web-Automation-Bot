@@ -60,11 +60,9 @@ from selenium import webdriver
 # Initialize the WebDriver
 driver = webdriver.Chrome()
 
-# Open a website
-driver.get('https://example.com')
 
-# Perform actions (e.g., login)
-# ...
+
+# Perform actions
 
 # Close the browser
 driver.quit()
