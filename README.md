@@ -30,7 +30,7 @@ Obtain your API key and configure it in the config.py file:
 
 python
 Copy code
-# config.py
+
 CAPMONSTER_API_KEY = 'your_capmonster_api_key'
 TWO_CAPTCHA_API_KEY = 'your_2captcha_api_key'
 Configure WebDriver Path:
