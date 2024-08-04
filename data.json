@@ -1,0 +1,20 @@
+{
+    "Email": "kingdenomi@gmail.com",
+    "Password": "Pak@2019@",
+    "ApplicationCenter": ["Lahore (Pakistan)","Islamabad (Pakistan)"],
+    "ServiceType": "Legalisation",
+    "ApplicantType":"Group/Family: 2 members",
+    "AppointmentType": "Normal Time",
+    "FirstName": "Shazmeena",
+    "LastName": "Shahzad",
+    "FirstName2": "Muhammad Talha",
+    "LastName2": "Malik",
+    "Passport" : "GF0769711",
+    "APIKey": "581459cf3d90ae165e53e551ec5e8881",
+    "CardNumber": "4782780032450671",
+    "CVV": "408",
+    "ExMonth" : "April",
+    "ExYear" : "2029",
+    "Protocol": "P-BZ/L/2023/104764",
+    "ChromePath":"C:\\Users\\guest account\\AppData\\Local\\Google\\Chrome\\User Data"
+}
